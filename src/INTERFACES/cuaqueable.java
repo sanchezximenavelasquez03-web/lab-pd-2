@@ -9,8 +9,7 @@ package INTERFACES;
  * @author sistemas
  */
 public interface cuaqueable {
-    void cuaquear();
-    
+    void cuaquear(); 
             
     
 }

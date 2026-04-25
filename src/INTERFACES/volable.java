@@ -8,6 +8,6 @@ package INTERFACES;
  *
  * @author sistemas
  */
-public interface volable {
-    
+public interface Volable {
+    void volable();
 }
